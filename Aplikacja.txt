@@ -4,13 +4,15 @@
         System.out.println("Kliknij na przycisk zaloguj");
     }
 
-<<<<<<< HEAD
-   public void logowanieGoogle() {
+
+public void logowanieGoogle() {
         System.out.println("Podaj poprawny email z gmail");
-=======
-   public void logowanieMicrosoft() {
+        System.out.println("Podaj poprawne hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
+
+public void logowanieMicrosoft() {
         System.out.println("Podaj poprawną nazwę użytkownika");
->>>>>>> klient102
         System.out.println("Podaj poprawne hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
